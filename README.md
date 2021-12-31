@@ -38,5 +38,5 @@ ECONNRESET read ECONNRESET
 ```
 *Be aware that the error will be visible from the console after a few seconds.*
 ### Important Notes to take into Consideration:
-1. This bug only exists on Windows as a Docker host. Meaning, there are now issues while running this container on a Linux Docker host.
+1. This bug only exists on Windows as a Docker host. Meaning, there are no issues while running this container on a Linux Docker host.
 2. This bug does not exist for other Webdrivers such as: PHP Webdriver available at [this github link](https://github.com/php-webdriver/php-webdriver)
