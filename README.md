@@ -21,7 +21,7 @@ npm install
 node run.js
 ```
 
-## Expected Behvaiour:
+## Expected Behaviour:
 - The URL `http://localhost:<YOUR HOST PORT>` will be reachable without any issue (The Selenium Standalone server runs without any error).
 - The Selenium Server will have no reaction after running the run.js (Node.js script).
 - No browser instances (sessions) will be created.
