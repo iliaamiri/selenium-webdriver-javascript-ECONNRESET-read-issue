@@ -16,7 +16,6 @@ Please refer to [this blog](https://dev.to/darksmile92/run-gui-app-in-linux-dock
 
 ## Step 3 (Connect to the Selenium Server via running run.js)
 ```
-npm init -y
 npm install
 node run.js
 ```
