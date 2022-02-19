@@ -1,6 +1,6 @@
 const {Builder} = require('selenium-webdriver');
 
-(function run(){
+(async function run(){
     try {
         let driver = await new Builder()
         .forBrowser('firefox')
